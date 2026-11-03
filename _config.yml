@@ -3,7 +3,7 @@ description: Countdowns to top Software Engineering Research Venues deadlines.
 author: Sivana Hamer, Imranur Rahman
 
 domain: "se-deadlines.github.io"
-baseurl: ""
+baseurl: "/se-deadlines.github.io"
 
 github_username: se-deadlines
 github_repo: se-deadlines.github.io
